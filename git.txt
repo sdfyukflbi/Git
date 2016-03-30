@@ -1,3 +1,7 @@
 cd ..
 cd Git
 git init
+git add .
+git commit -m "name"
+git remote add origin https://github.com/sdfyukflbi/Git.git
+git push -u origin master
