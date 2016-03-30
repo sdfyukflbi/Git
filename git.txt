@@ -5,3 +5,4 @@ git add .
 git commit -m "name"
 git remote add origin https://github.com/sdfyukflbi/Git.git
 git push -u origin master
+git clone https://github.com/sdfyukflbi/Git.git
